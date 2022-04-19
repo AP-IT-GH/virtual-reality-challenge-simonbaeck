@@ -1,5 +1,7 @@
 ## VR Challenge 3D painting - Simon Baeck
 
+### Panopto video link: https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11bdba5f-353a-4da5-8c0d-ae7c00722ec8
+
 Uitgevoerde taken:
 #### 1. The Canvas that allows you to change the shape on the pedestal follows the camera.
 - Render mode aangepast naar "world space" bij de canvas_pedestal, stond eerst op "screen space".
